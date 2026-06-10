@@ -1,6 +1,6 @@
 # Exemplo de listas e filtros
 
-Exemplo de utilização de listas, filtros, linhas e colunas com Flutter
+Exemplo de utilização de listas, filtros, linhas, colunas e sanfona com Flutter
 
 ## Tecnologias
 - Flutter
